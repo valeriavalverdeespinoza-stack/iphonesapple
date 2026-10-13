@@ -1,6 +1,6 @@
 
-
-function footer() {
+import "../css_components/footer.css"
+function Footer() {
     return (
         <footer>
             <p>&copy; 2026 iPhones Apple. All rights reserved.</p>
@@ -8,4 +8,4 @@ function footer() {
     )
 }
 
-export default footer
+export default Footer;
